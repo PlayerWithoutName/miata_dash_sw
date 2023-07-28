@@ -1,0 +1,11 @@
+Model Information:
+* title:	dingus the cat
+* source:	https://sketchfab.com/3d-models/dingus-the-cat-2ca7f3c1957847d6a145fc35de9046b0
+* author:	bean(alwayshasbean) (https://sketchfab.com/alwayshasbean)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "dingus the cat" (https://sketchfab.com/3d-models/dingus-the-cat-2ca7f3c1957847d6a145fc35de9046b0) by bean(alwayshasbean) (https://sketchfab.com/alwayshasbean) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
